@@ -8,7 +8,6 @@ This project is an implementation of an **MCP (Model Context Protocol) server**,
 
 - **Technology Used**: Python
 - **Purpose**: To set up a local MCP server that enables AI models to interact with external APIs and tools.
-- **Tutorial Source**: [YouTube Video](https://www.youtube.com/watch?v=8g0z3DNi_fU)
 
 ---
 
